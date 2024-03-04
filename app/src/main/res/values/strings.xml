@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">KaffeIn</string>
+    <string name="profile">Profile</string>
+    <string name="coffee_name">Coffee Name</string>
+    <string name="coffee_description">Description</string>
+    <string name="txt_click">Click Me!</string>
+    <string name="coffee_country">Country</string>
+    <string name="coffee_ingredients">Ingredients :</string>
+    <string name="tv_coffee_country_headline">Country of Origin :</string>
+    <string name="tv_coffee_ingredients_headline">Ingredients :</string>
+
+    <string-array name="data_name">
+        <item>Americano</item>
+        <item>Flat white</item>
+        <item>Cappucino</item>
+        <item>Latte</item>
+        <item>Caramel Macchiato</item>
+        <item>Mocha</item>
+        <item>Café au lait</item>
+        <item>Espresso</item>
+        <item>Long Black</item>
+        <item>Affogato</item>
+    </string-array>
+
+
+    <string-array name="data_description">
+        <item>An americano is a type of coffee made by adding hot water to espresso. This results in a lighter drink and has a more subtle flavor than a traditional espresso. If you like a little bitterness in your coffee, you\'ll love americano. Some people like to add milk or cream to their americano for a more balanced taste. Others use flavored coffee beans or syrups to add extra flavor. Whether you drink it black or with added cream and sugar, americano coffee is a delicious way to start your day.</item>
+        <item>A flat white is a blend of micro-foamed milk poured over a single or double shot of espresso. This microfoam is steamed milk infused with air, to create a smooth and velvety texture and creamy taste. Precise pouring and steaming of the microfoam is essential in making a flat white</item>
+        <item>A cappuccino is an Italian coffee drink made with equal parts espresso, steamed milk, and foam. The milk isn\'t mixed in, which gives the espresso a stronger flavor. A well-made cappuccino should be rich, not acidic, and have a mildly sweet flavor from the milk.</item>
+        <item>A latte begins with the same base — a single or double shot of espresso. This espresso is then combined with several ounces of steamed milk to create a rich, creamy beverage that has a more subtle espresso taste. The typical ratio for espresso to steamed milk is about 1-to-2.</item>
+        <item>The Caramel Macchiato is essentially a not-too-sweet vanilla latte topped with caramel. The “macchiato” distinction is due to the fact the espresso is layered on top of the milk, as opposed to the Starbucks latte, which does the opposite. This layering is especially noticeable in transparent vessels.</item>
+        <item>A shot of espresso is combined with chocolate powder or syrup, followed by milk or cream. It is a variant of a latte, in the sense that it is often ⅓ espresso and 2/3 steamed milk.</item>
+        <item>Café au lait is a French coffee drink that translates to "coffee with milk". It\'s typically made with a ratio of one part coffee to one part steamed milk, and is often served slowly. The coffee base is usually made with a French press or a drip coffee machine, and the milk must always be steamed.</item>
+        <item>Espresso is a coffee-brewing method in which a small amount of nearly boiling water is forced under pressure through finely ground coffee beans. Originating from Italy, the French also made significant contributions via the invention of coffee makers, predecessors of today\'s espresso machines.</item>
+        <item>Pretty similar to Americano, having the same ingredients – espresso and hot water. However, you make Long Black in a different order – add a small amount of hot water to a cup and then pull one or two shots of espresso into it. The order surprisingly makes a difference!</item>
+        <item>is an Italian coffee-based dessert. It usually takes the form of a scoop of plain milk-flavored (fior di latte) or vanilla gelato or ice cream topped or "drowned" with a shot of hot espresso.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://foto.kontan.co.id/Ohrz3SH23BdMi7J7XLG6JgDgO6w=/smart/filters:format(webp)/2023/01/26/1632610923p.jpg</item>
+        <item>https://images.immediate.co.uk/production/volatile/sites/30/2020/08/flat-white-d8ada0f.jpg?resize=768,574</item>
+        <item>https://methodicalcoffee.com/cdn/shop/articles/cap_1024x.jpg?v=1684507364</item>
+        <item>https://www.roastycoffee.com/wp-content/uploads/mBPxUtTx-720x540.jpeg</item>
+        <item>https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/caa21cd668b93fadaad07fefc530ace5/Derivates/6b93b4ab826fe249292790890b8f2e96d6f6f1b4.jpg</item>
+        <item>https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mocha-001-8301418.jpg?quality=90&amp;resize=440,400</item>
+        <item>https://www.thespruceeats.com/thmb/YEI_JAfLHd6fbfCYUukcW5E2TYg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-cafe-au-lait-recipe-1374920-hero-01-b1463e806a7947e7b8b17979ab70eab3.jpg</item>
+        <item>https://www.thespruceeats.com/thmb/HJrjMfXdLGHbgMhnM0fMkDx9XPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-espresso-765702-hero-03_cropped-ffbc0c7cf45a46ff846843040c8f370c.jpg</item>
+        <item>https://img.kurio.network/c9WMiO6WI_nKGuvXyAzDZZjoo68=/1200x900/filters:quality(80)/https://kurio-img.kurioapps.com/19/07/17/b97f0419-f6f3-4c75-9522-db1196e2a3d7.jpg</item>
+        <item>https://awsimages.detik.net.id/community/media/visual/2023/01/04/fakta-affogato-2.jpeg?w=1200</item>
+    </string-array>
+
+    <string-array name="data_country">
+        <item>Italy</item>
+        <item>Australia, New Zealand</item>
+        <item>Italy</item>
+        <item>Italy</item>
+        <item>Italy</item>
+        <item>Yemen</item>
+        <item>French</item>
+        <item>Italy</item>
+        <item>Australia, New Zealand</item>
+        <item>Italy</item>
+    </string-array>
+
+    <string-array name="data_ingredients">
+        <item>Water, Espresso</item>
+        <item>Double shot Espresso, micro-foamed mil</item>
+        <item>Espresso, steamed milk, milk foam</item>
+        <item>Espresso, steamed milk, frothed milk</item>
+        <item>Vanilla syrup, steamed milk, espresso, and caramel sauce</item>
+        <item>Espresso, chocolate syrup, milk</item>
+        <item>Brewed Coffee, steamed milk</item>
+        <item>Coffee beans</item>
+        <item>Espresso, water</item>
+        <item>Espresso, Ice Cream</item>
+    </string-array>
+
+<!--    <integer-array name="data_photo">-->
+<!--        <item>@drawable/americano</item>-->
+<!--        <item>@drawable/flat_white</item>-->
+<!--        <item>@drawable/cappucino</item>-->
+<!--        <item>@drawable/latte</item>-->
+<!--        <item>@drawable/caramel_macchiato</item>-->
+<!--        <item>@drawable/mocha</item>-->
+<!--        <item>@drawable/cafe_au_lait</item>-->
+<!--        <item>@drawable/espresso</item>-->
+<!--        <item>@drawable/long_black</item>-->
+<!--        <item>@drawable/affogato</item>-->
+<!--    </integer-array>-->
+
+</resources>

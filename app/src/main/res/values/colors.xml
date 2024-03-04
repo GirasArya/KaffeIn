@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_chocolate">#561C24</color>
+    <color name="chocolate">#6D2932</color>
+    <color name="light_chocolate">#632626</color>
+    <color name="cream">#C7B7A3</color>
+    <color name="latte">#E8D8C4</color>
+</resources>
